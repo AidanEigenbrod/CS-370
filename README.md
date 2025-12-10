@@ -1,1 +1,1 @@
-# CS-499-Capstone
+# CS-370
